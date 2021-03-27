@@ -48,10 +48,10 @@ print(s.find('r'))
 # Spilt 
 print(s.split())
 
-# is all alphanumeric
+# is all alphanumeric accounts for spaces
 print(s.isalnum())
 
-# is all alphabetic
+# is all alphabetic  ^^^^^^^^^^^^^^^^^
 print(s.isalpha())
 
 # is all numeric
