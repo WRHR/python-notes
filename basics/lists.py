@@ -18,6 +18,9 @@ fruits.append('mangos')
 #  remove from list
 fruits.remove('grapes')
 
+# change val
+fruits[1] = 'grapes'
+
 #  insert into pos
 fruits.insert(2, 'bananas')
 
