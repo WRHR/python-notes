@@ -33,7 +33,7 @@ numbers = [1,2,3,4,5,10]
 if x in numbers:
   print(x in numbers)
 
-# is 
+# is / is not 
 
 if x is not y:
   print(x is y)
